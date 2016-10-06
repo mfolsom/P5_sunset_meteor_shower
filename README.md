@@ -1,2 +1,1 @@
-# P5_sunset_meteor_shower
-# P5_sunset_meteor_shower
+# To run the code simply open index.html in your browser
